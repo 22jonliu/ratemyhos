@@ -1,0 +1,48 @@
+{
+  "healthcare_facilities": [
+    {
+      "id": 0,
+      "name": "Saint Michael's Medical Center",
+      "address": {
+        "full_address": "111 Central Ave, Newark, NJ 07102",
+        "street": "111 Central Ave",
+        "city": "Newark",
+        "state": "NJ",
+        "zip": "07102"
+      }
+    },
+    {
+      "id": 1,
+      "name": "University Hospital (Newark Rutgers)",
+      "address": {
+        "full_address": "150 Bergen St, Newark, NJ 07103",
+        "street": "150 Bergen St",
+        "city": "Newark",
+        "state": "NJ",
+        "zip": "07103"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Newark Community Health Center",
+      "address": {
+        "full_address": "92 Ferry St, Newark, NJ 07105",
+        "street": "92 Ferry St",
+        "city": "Newark",
+        "state": "NJ",
+        "zip": "07105"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Newark Beth Israel Medical Center",
+      "address": {
+        "full_address": "201 Lyons Ave, Newark, NJ 07112",
+        "street": "201 Lyons Ave",
+        "city": "Newark",
+        "state": "NJ",
+        "zip": "07112"
+      }
+    }
+  ]
+}
